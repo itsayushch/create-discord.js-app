@@ -1,0 +1,28 @@
+{
+  "name": "create-discord.js-app",
+  "version": "1.0.0",
+  "description": "A CLI to generate discord bot templates with or without different frameworks supporting typescript too.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsayushch/create-discord.js-app.git"
+  },
+  "keywords": [
+    "discord.js-cli",
+    "discord-cli",
+    "discord-bot-generator",
+    "create-discord.js-app"
+  ],
+  "author": "Ayush Chowdhury (ayush.chowdhury2004@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsayushch/create-discord.js-app/issues"
+  },
+  "bin": {
+    "create-discord.js-app": "./src/index.js"
+  },
+  "homepage": "https://github.com/itsayushch/create-discord.js-app#readme"
+}
