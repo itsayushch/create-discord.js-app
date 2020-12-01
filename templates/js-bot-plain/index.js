@@ -1,4 +1,4 @@
-require('dotenv').config();
+const { PREFIX, TOKEN } = require('./config.js')
 const { Client, Collection } = require('discord.js');
 const { readdirSync } = require('fs');
 
@@ -33,4 +33,4 @@ const loadCommands = () => {
     }
 }
 
-client.login(process.env.TOKEN);
+client.login(TOKEN);
