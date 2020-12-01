@@ -1,5 +1,3 @@
-# create-discord.js-app
-Create a simple discord bot in a fraction on seconds!
-# Installation
-`npx create-discord.js-app <path> <options>`
-# Features
+# Create Discord.js App
+
+A CLI to generate discord bot templates with or without different frameworks supporting typescript too.
