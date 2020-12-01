@@ -1,2 +1,4 @@
 # create-discord.js-app
-Op npm 
+Create a simple discord bot in a fraction on seconds!
+# Installation
+
